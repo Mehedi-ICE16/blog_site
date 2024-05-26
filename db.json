@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "id": "5502",
+      "title": "Top 10 JavaScript Fundamentals That Every Developer Should Know ",
+      "content": "Mostly, five kinds of datatypes are used in Javascript. They are:Number: This datatype represents numeric type values. Example: 100, 13String: This is made of characters. It is always kept in double quotation (“ ”). Example: “GeeksForGeeks” and “JavaScript”Boolean: In these datatypes, there are only two values: true and false.Example: true, falseUndefined: It can only represent an undefined value, which means it is not defined.Example: undefinedObject: It is basically data collection, which is represented by key-value pairs.Example: const person={Name:” Ram”, Age:30, Language:” JavaScript”}There are three types of functions we used in JavaScript for converting datatypes.Number()String()Boolean()Moving ahead, we will briefly discuss these in-build functions.A. Typecast to Number: The Number () function is used when we convert the given input value to the number type. But If we want to convert the given input into an int or float type, then we have to use the parseInt() function to convert it into an int type and the parseFloat() function to convert it into a float type.",
+      "date": "2024-05-26",
+      "tags": "Web Technologies"
+    },
+    {
+      "id": "2969",
+      "title": "What's the Difference Between localhost and 127.0.0.1?",
+      "content": "My article is open to everyone; non-member readers can click this link to read the full text.When front-end developers debug locally, they often interact with localhost, simply running npm run to open their webpage in a browser, with the address bar displaying something like http://localhost:xxx/index.html.Many might use it without pondering the distinction between the two.Considering my past collaboration with developers who also lacked a clear understanding of their differences, I find it essential to spread some knowledge on this topic.What is localhost?localhost is a domain name that is fundamentally no different from the domain names used for internet access, except for its ease of remembrance.The scope of localhost is limited to the local machine; its name makes it clear: “local” refers to something within the locality.Both John Smith and Jane Doe can use localhost on their respective machines without interfering with each other, accessing their individual page content.From Domain Name to ProgramTo truly understand localhost, we need to discuss how users access programs via domain names.",
+      "date": "2024-05-27",
+      "tags": "Become an expert in your areas of interest"
+    }
+  ]
+}
